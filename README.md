@@ -44,10 +44,10 @@ Technologies used: `JavaScript, jQuery, Wordpress, PHP, MySQL, Apache, Git, AWS,
 
 ----
 
+<img src="https://github.com/tomhuhges/cv/blob/master/pitchit.png" alt="PitchIt" align="right" />
+
 ### Freelance
 ### August 2016 - Current
-
-<img src="https://github.com/tomhuhges/cv/blob/master/pitchit.png" alt="PitchIt" align="right" />
 
 **Clients:**  
 [Pitch It!](http://pitchit.london/)  
