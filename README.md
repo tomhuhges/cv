@@ -25,7 +25,7 @@ i've previously worked as both a designer and copywriter for the web.
 ##### January 2015 - August 2016
 [website](https://www.springwise.com/)
 
-<img src="https://github.com/tomhuhges/cv/blob/master/springwise.png" alt="Springwise" style="float: right;" />
+<img src="https://github.com/tomhuhges/cv/blob/master/springwise.png" alt="Springwise" align="right" />
 
 I started out as the sole developer in a small company of 5 working to improve a legacy media platform based on Wordpress, before later collaborating with various remote front end contractors and a devops team.  
 
@@ -37,7 +37,7 @@ I vastly improved the company's analytics, integrating Google Analytics Ecommerc
 
 I worked directly with and was key to enabling custom solutions for important global clients including WPP, Oracle, Tata & Sons and the Prime Ministers Office in Dubai.
 
-I was also leading design at Springwise, working with Adobe CC (PhotoShop, Illustrator, InDesign) to design and create assets for company identity, print and digital marketing materials.
+I was also leading design at Springwise, working with Sketch and Adobe CC (PhotoShop, Illustrator, InDesign) to design and create assets for company identity, print and digital marketing materials.
 
 
 Technologies used: `JavaScript, jQuery, Wordpress, PHP, MySQL, Apache, Git, AWS, WooCommerce, HTML5, SASS`
