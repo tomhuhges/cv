@@ -25,7 +25,7 @@ i've previously worked as both a designer and copywriter for the web.
 ##### January 2015 - August 2016
 [Springwise](https://www.springwise.com/)
 
-| ![Springwise](https://github.com/tomhuhges/cv/blob/master/springwise.png, "Springwise") | I started out as the sole developer in a small company of 5 working to improve a legacy media platform based on Wordpress, before later collaborating with various remote front end contractors and a devops team.
+| ![Springwise](https://github.com/tomhuhges/cv/blob/master/springwise.png "Springwise") | I started out as the sole developer in a small company of 5 working to improve a legacy media platform based on Wordpress, before later collaborating with various remote front end contractors and a devops team.
 
 I developed and maintained themes across the company's 3 products - Springwise.com, Springwise Access and Springspotters - introducing Sass to better maintain CSS and git to track changes.
 
