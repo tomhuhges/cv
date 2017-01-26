@@ -6,11 +6,11 @@ i've previously worked as both a designer and copywriter for the web.
 
 [www.tomhuhges.com](http://www.tomhuhges.com/)
 
-| Languages/Tech | Frameworks, Libraries & Templating Engines | Testing        | Databases | Tools     |
-|:--------------:|:------------------------------------------:|:--------------:|:---------:|:---------:|
-| JS/ES2015      | React                                      | vanilla JS     | MySQL     | Webpack   |
-| Node.js        | Redux                                      | Mocha          |           | Gulp      |
-| HTML5          | Angular 1.x                                | Chai           |           | Git       |
-| CSS3/SASS      | Wordpress                                  | Enzyme (React) |           | AWS       |
-| Python         |                                            |                |           | Travis CI |
-| PHP            |                                            |                |           |           |
+| Languages/Tech | Frameworks & Libraries                     | Testing        | Databases        | Tools     |
+|:--------------:|:------------------------------------------:|:--------------:|:----------------:|:---------:|
+| JS/ES2015      | React                                      | vanilla JS     | MySQL            | Webpack   |
+| Node.js        | Redux                                      | Mocha          | LocalStorage API | Gulp      |
+| HTML5          | Tachyons (Functional CSS)                  | Chai           |                  | Git       |
+| CSS3/SASS      | Angular 1.x                                | Enzyme (React) |                  | AWS       |
+| Python         | Wordpress                                  |                |                  | Travis CI |
+| PHP            |                                            |                |                  |           |
