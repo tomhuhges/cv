@@ -42,6 +42,8 @@ I was also leading design at Springwise, working with Sketch and Adobe CC (Photo
 
 Technologies used: `JavaScript, jQuery, Wordpress, PHP, MySQL, Apache, Git, AWS, WooCommerce, HTML5, SASS`
 
+----
+
 ### Freelance
 ### August 2016 - Current
 
