@@ -4,84 +4,92 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://unpkg.com/tachyons@4.6.1/css/tachyons.min.css"/>
+    <link rel="stylesheet" href="assets/css/style.css"/>
     <title>Tom Hughes - JavaScript Developer</title>
   </head>
-  <body class="bg-washed-blue flex flex-column items-center dark-gray f5 lh-copy">
-    <header class="flex align-center justify-between bg-blue white pa4 ph6-l mw-100 w-two-thirds-l">
+  <body class="flex flex-column items-center dark-gray f5 pv4 lh-copy code">
+    <header class="flex align-center justify-between pa4 mw-100 w-50-l ba bw3 blue">
       <div class="name lh-solid w-70">
         <h1 class="f3-ns f2-m f1-l">Tom Hughes</h1>
         <h3 class="f3-l normal">JavaScript Developer</h3>
+        <section id="social" class="flex items-center">
+          <a href="https://twitter.com/tomhuhges">
+            <img src="assets/twitter.svg" alt="twitter" class="w2 pr2">
+          </a>
+          <a href="https://github.com/tomhuhges">
+            <img src="assets/github.svg" alt="github" class="w2 pr2">
+          </a>
+          <a href="https://www.linkedin.com/in/tom-hughes-57b12080">
+            <img src="assets/linkedin.svg" alt="linkedin" class="w2 pr3">
+          </a>
+          <a href="http://tomhuhges.com" class="link">tomhuhges.com</a>
+        </section>
       </div>
-      <div class="portrait w-30">
-        <img class="br-100" src="assets/me.png" />
+      <div class="portrait flex items-center w-40">
+        <img class="br2" src="assets/me.png" />
       </div>
     </header>
-    <main class="f4 mw-100 mw-two-thirds-l w-two-thirds-l">
-      <section id="social pa4">
-        <!-- insert social icons -->
-        <!-- <a href="http://tomhuhges.com" class="link mid-gray">tomhuhges.com</a> -->
-      </section>
+    <main class="f4 mw-100 mw-50-l w-50-l">
       <section id="overview" class="pa4">
-        <h2>About Me</h2>
-        <p>I'm a <strong>self-taught frontend developer</strong> specializing in <strong class="green">JavaScript</strong>, <strong class="pink">React</strong> and <strong class="yellow">Redux</strong>. I have <strong>2 years' experience</strong> working as a PHP developer for digital innovation magazine Springwise and am currently freelancing/learning full time. Specifically I've been focusing on improving my <strong>TDD</strong> skills, and knowledge of <strong>functional programming</strong> and <strong>single page app architecture</strong>.</p>
+        <h2 class="title-skew">About Me</h2>
+        <p>I'm a <strong class="blue">self-taught frontend developer</strong> specializing in <strong class="green">JavaScript</strong>, <strong class="pink">React</strong> and <strong class="yellow">Redux</strong>. I have <strong class="blue">2 years' experience</strong> working as a PHP developer for digital innovation magazine Springwise and am currently freelancing/learning full time. Specifically I've been focusing on improving my <strong class="blue">TDD</strong> skills, and knowledge of <strong class="blue">functional programming</strong> and <strong class="blue">single page app architecture</strong>.</p>
         <p>I've previously worked as both a designer and copywriter for the web.</p>
       </section>
       <section id="experience">
-        <h2 class="f2 ph4">Experience</h2>
+        <h2 class="ph4 title-skew">Experience</h2>
         <div class="card pv3">
-          <div class="title bg-yellow pa4">
+          <div class="title bg-yellow ph4 pv1">
             <h3>Lead Developer &amp; Designer, Springwise</h3>
             <h4>January 2015 - August 2016</h4>
           </div>
           <div class="copy">
             <ul class="pr4">
-              <li class="pv2">Brought an unloved legacy media platform on Wordpress up to date with <strong>modern technologies</strong></li>
-              <li class="pv2">Tools: <strong>JS, PHP, HTML5, Sass, MySQL, Git, AWS, New Relic, WooCommerce</strong></li>
-              <li class="pv2">Sole developer in a company of 5, <strong>collaborated</strong> with remote frontend contractors and a devops team</li>
-              <li class="pv2">Vastly <strong>improved pagespeeds</strong></li>
-              <li class="pv2">Developed custom plugins using external <strong>APIs</strong> to automate newsletter creation and generate data insights from the Springwise back catalogue</li>
-              <li class="pv2">Worked directly with <strong>important global clients</strong> including WPP, Oracle, Tata &amp; Sons and the Prime Ministers Office in Dubai</li>
-              <li>Used Sketch and Adobe CC (PhotoShop, Illustrator, InDesign) to design and create prototypes and digital assets.</li>
+              <li class="pv2">Brought an unloved legacy media platform on Wordpress up to date with <strong class="blue">modern technologies</strong></li>
+              <li class="pv2">Tools: <strong class="blue">JS, PHP, HTML5, Sass, MySQL, Git, AWS, New Relic, WooCommerce</strong></li>
+              <li class="pv2">Sole developer in a company of 5, <strong class="blue">collaborated</strong> with remote frontend contractors and a devops team</li>
+              <li class="pv2">Vastly <strong class="blue">improved pagespeeds</strong></li>
+              <li class="pv2">Developed custom plugins using external <strong class="blue">APIs</strong> to automate newsletter creation and generate data insights from the Springwise back catalogue</li>
+              <li class="pv2">Worked directly with <strong class="blue">important global clients</strong> including WPP, Oracle, Tata &amp; Sons and the Prime Ministers Office in Dubai</li>
+              <li>Used Sketch and Adobe CC (PhotoShop, Illustrator, InDesign) to design and create prototypes and digital assets</li>
             <ul>
           </div>
         </div>
         <div class="card pv3">
-          <div class="title bg-yellow pa4">
+          <div class="title bg-yellow ph4 pv1">
             <h3>Writer &amp; Designer, Springwise</h3>
             <h4>June 2012 - January 2015</h4>
+          </div>
+          <div class="copy">
+            <ul class="pr4">
+              <li class="pv2">Led UX design of the company's premium service</li>
+              <li class="pv2">Wrote in-depth articles covering the innovation landscape for clients such as Accenture, as well as profiles of the world's disruptive businesses</li>
+            <ul>
+          </div>
+        </div>
+        <div class="card pv3">
+          <div class="title bg-yellow ph4 pv1">
+            <h3>Technical Consultant, Center for International Media Ethics</h3>
+            <h4>October 2012 - October 2014</h4>
+          </div>
+          <div class="copy">
+            <ul class="pr4">
+              <li class="pv2">Modernized the organization's various web properties, email and internal collaboration systems</li>
+            <ul>
           </div>
         </div>
       </section>
       <section id="skills" class="pa4">
         <h2>Skills</h2>
         <h3>Core Languages/Tech</h3>
-        <p>JavaScript/ES2015</p>
-        <p>Node.js</p>
-        <p>HTML5</p>
-        <p>CSS3/SASS</p>
-        <p>Python</p>
-        <p>PHP</p>
+        <p>JavaScript/ES2015 / Node.js / HTML5 / CSS3/SASS / Python / PHP</p>
         <h3>Frameworks/Libraries</h3>
-        <p>React</p>
-        <p>Redux</p>
-        <p>Tachyons (functional CSS)</p>
-        <p>Angular 1.x</p>
-        <p>Wordpress</p>
+        <p>React / Redux / Tachyons (functional CSS) / Angular 1.x / Wordpress</p>
         <h3>Testing</h3>
-        <p>vanilla JS</p>
-        <p>Mocha</p>
-        <p>Chai</p>
-        <p>Enzyme (React)</p>
+        <p>vanilla JS / Mocha / Chai / Enzyme (React)</p>
         <h3>Databases</h3>
-        <p>MySQL</p>
-        <p>PostgreSQL</p>
-        <p>LocalStorage API</p>
+        <p>MySQL / PostgreSQL / LocalStorage API</p>
         <h3>Tooling</h3>
-        <p>Webpack</p>
-        <p>Gulp</p>
-        <p>Git</p>
-        <p>AWS</p>
-        <p>Travis CI</p>
+        <p>Webpack / Gulp / Git / AWS / Travis CI</p>
       </section>
     </main>
   </body>
