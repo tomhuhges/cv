@@ -12,10 +12,10 @@ i've previously worked as both a designer and copywriter for the web.
 |:--------------:|:------------------------------------------:|:--------------:|:----------------:|:---------:|
 | JS/ES2015      | React                                      | vanilla JS     | MySQL            | Webpack   |
 | Node.js        | Redux                                      | Mocha          | LocalStorage API | Gulp      |
-| HTML5          | Tachyons (Functional CSS)                  | Chai           |                  | Git       |
+| HTML5          | Tachyons (Functional CSS)                  | Chai           | MongoDB          | Git       |
 | CSS3/SASS      | Angular 1.x                                | Enzyme (React) |                  | AWS       |
-| Python         | Wordpress                                  |                |                  | Travis CI |
-| PHP            |                                            |                |                  |           |
+| PHP            | Wordpress                                  |                |                  | Travis CI |
+| Python         |                                            |                |                  |           |
 
 ----
 
