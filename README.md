@@ -2,54 +2,56 @@
 
 ## javascript developer
 
-i'm a self taught front-end developer specializing in javascript, react and redux. i have 2 years experience working as a PHP developer for a company called [Springwise](https://www.springwise.com/) and am currently freelancing/learning full time. specifically i've been focusing on improving my TDD skills, and knowledge of functional programming and single page app architecture.
-
-i've previously worked as both a designer and copywriter for the web.
+I have 7 years’ experience as a frontend developer specializing in JavaScript, React and rich user experiences. I’m currently playing a leading role as part of a small team building one of the largest lottery apps in the US. In the past I’ve worked on React Native apps, developed custom design systems and brought legacy codebases up to high modern standards.
 
 [www.tomhuhges.com](http://www.tomhuhges.com/)
 
-| Languages/Tech | Frameworks & Libraries                     | Testing        | Databases        | Tools     |
-|:--------------:|:------------------------------------------:|:--------------:|:----------------:|:---------:|
-| JS/ES2015      | React                                      | vanilla JS     | MySQL            | Webpack   |
-| Node.js        | Redux                                      | Mocha          | LocalStorage API | Gulp      |
-| HTML5          | Tachyons (Functional CSS)                  | Chai           | MongoDB          | Git       |
-| CSS3/SASS      | Angular 1.x                                | Enzyme (React) |                  | AWS       |
-| PHP            | Wordpress                                  |                |                  | Travis CI |
-| Python         |                                            |                |                  |           |
+| Languages/Tech | Frameworks & Libraries                | Testing               | Databases      | Tools       |
+|:--------------:|:-------------------------------------:|:---------------------:|:--------------:|:-----------:|
+| JS/ES2018+     | React (with Hooks)                    | Jest                  | MySQL          | git         |
+| Node.js        | Redux                                 | react-testing-library | MongoDB        | Travis CI   |
+| HTML5          | Vanilla JS                            | Cypress               | Firebase       | AWS         |
+| CSS3           | Webpack                               | Browserstack          |                | GCP         |
+| PHP            | D3                                    |                       |                | Storybook   |
+| Python         | TailwindCSS                           |                       |                |             |
 
 ----
 
 ## experience
 
-### Lead Developer & Designer, Springwise
-##### January 2015 - August 2016
+### JavaScript Developer @ LottoLogic
+##### Jul 2017 - Present
+[website](https://www.lotteryusa.com/)
+
+- Engineered JS and other frontend aspects of LotteryUSA.com, one of the biggest lottery apps in
+the US with 1m+ users/week
+- Built a library of unit-tested, custom reuseable components with built-in accessibility, best
+practices and intuitive interactivity to reduce dev time speed up prototyping
+- Rapidly designed and built microsites for one-off campaigns
+- Improved the team’s workflow by advocating CI and automated testing. We now deploy quality code
+multiple times a day
+- Constantly keep up to date with modern tooling and web best practices, attending Google/React
+workshops and other conferences
+
+----
+
+### Freelance Developer @ various
+##### Jun 2016 - Jul 2017
+
+- Built a React Native app for a logistics company to track orders being packed
+- Built an internal calendar tool for a healthcare company to organise client visits
+- Created promotional JAM stack sites for a social enterprise and a cocktail bar
+
+----
+
+### Lead Developer @ Springwise
+##### Jan 2015 - Jun 2016
 [website](https://www.springwise.com/)
 
 <img src="https://github.com/tomhuhges/cv/blob/master/public/springwise.png" alt="Springwise" align="right" />
 
-I started out as the sole developer in a small company of 5 working to improve a legacy media platform based on Wordpress, before later collaborating with various remote front end contractors and a devops team.  
-
-I developed and maintained themes across the company's 3 products - Springwise.com, Springwise Access and Springspotters - introducing Sass to better maintain CSS and git to track changes.
-
-I maintained existing plugins (primarily WooCommerce and related extensions) and developed several custom plugins for both internal and customer-facing projects. One internal plugin worked with an mailing service API to competely automate the creation of daily and weekly newsletters. Another plugin used an algorithm to glean data from tagged articles and generate real-time insights for paying customers.
-
-I vastly improved the company's analytics, integrating Google Analytics Ecommerce tracking, Mixpanel for tracking usage of the premium platform, and New Relic to trace errors and improve site speeds.
-
-I worked directly with and was key to enabling custom solutions for important global clients including WPP, Oracle, Tata & Sons and the Prime Ministers Office in Dubai.
-
-I was also leading design at Springwise, working with Sketch and Adobe CC (PhotoShop, Illustrator, InDesign) to design and create assets for company identity, print and digital marketing materials.
-
-
-Technologies used: `JavaScript, jQuery, Wordpress, PHP, MySQL, Apache, Git, AWS, WooCommerce, HTML5, SASS`
-
-----
-
-<img src="https://github.com/tomhuhges/cv/blob/master/public/pitchit.png" alt="PitchIt" align="right" />
-
-### Freelance
-### August 2016 - Current
-
-**Clients:**  
-[Pitch It!](http://pitchit.london/)  
-FKA Architects  
-Hey, Bartender!  
+- Brought an unloved legacy media platform on Wordpress up to date with modern technologies
+- Designed and built a paywalled content section to generate better revenue
+- Vastly improved pagespeeds, automated newsletter and PDF creation, and created an algorithm to
+generate data insights from Springwise content
+- Worked closely with important global clients including WPP and Oracle 
